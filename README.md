@@ -106,5 +106,3 @@ For any inquiries or support, please contact us at:
 - Special thanks to our users for their valuable feedback and support.
 
 ---
-
-Thank you for choosing Anon for your e-commerce needs. We look forward to serving you!
