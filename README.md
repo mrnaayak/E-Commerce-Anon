@@ -1,6 +1,6 @@
 # Welcome to E-Commerce Application!
 
-**View Site Link:** https://mrnaaik.github.io/E-Commerce-Anon/
+**View Site Link:** https://mrnaayak.github.io/E-Commerce-Anon/
 
 ## Overview
 
